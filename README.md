@@ -67,8 +67,7 @@ Licensed under the [MIT License](LICENSE)
 ---
 
 ## ✨ Author
-
-Made by **Note**  
+Ayed
 GitHub: [AyedAA](https://github.com/AyedAA)
 
 
